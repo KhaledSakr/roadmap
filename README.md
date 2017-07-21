@@ -25,3 +25,53 @@ The roadmap will contain detailed checkpoints for each field, including links fo
 5. Agile
     - The Art of Agile Development (Book)
     - [Scrum Guide](http://scrumguides.org/scrum-guide.html)
+
+# Machine Learning
+1. Linear Algebra
+    - [MIT 18.06 Linear Algebra by Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+        > I believe it's necessary to completely finish this course before starting to delve into Machine Learning.
+2. Optimization Techniques
+    - [MIT's Optimization Problems by John Guttag](https://www.youtube.com/watch?v=C1lhuz6pZC0)
+3. Data Science
+    - [Harvard's CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
+        > This is focused more into the practical side of things.
+4. Deep Learning
+    - [Oxford's Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)
+5. Kaggle Competitions
+
+# Big Data
+1. Revise SQL
+    - [Coursera's Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql)
+2. Hadoop Ecosystem
+    - [Udemy's Learn Big Data](https://www.udemy.com/learn-big-data-the-hadoop-ecosystem-masterclass/)
+3. MongoDB
+    - [MongoDB University](https://university.mongodb.com/)
+    
+# Game Development
+1. Introduction
+	- [Wikipedia's Article on Game Programmers](https://en.wikipedia.org/wiki/Video_game_programmer)
+		> This is important to know the different roles involved in Game Development.
+
+	- [Coursera's Introduction to Game Development](https://www.coursera.org/learn/game-development)
+2. Unreal Engine
+	- [Udemy's Unrealcourse](https://www.udemy.com/unrealcourse/)
+3. Game Engine Basics
+	- [Writing a Game Engine from Scratch](http://www.gamasutra.com/blogs/MichaelKissner/20151027/257369/Writing_a_Game_Engine_from_Scratch__Part_1_Messaging.php)
+	- Game Engine Architecture by Jason Gregory (Book)
+4. CUDA
+	- [Udacity's Intro to Parallel Programming by  Nvidia](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+5. Game Analytics
+	- [Becoming a Games Analyst](http://www.gameanalytics.com/blog/becoming-games-analyst.html)
+    
+# Miscellaneous
+> These tools are definitely important to know, whatever your field is.
+1. Scripting
+	- Bash
+	- Perl
+	- Python
+	- Lua
+2. Node.js
+3. AngulasJS
+
+# Credits
+- https://www.facebook.com/groups/892792400815703/permalink/1402230853205186/
