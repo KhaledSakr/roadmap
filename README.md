@@ -22,6 +22,8 @@ The roadmap will contain detailed checkpoints for each field, including links fo
 4. Testing
     - [Why is Unit Testing important?](https://www.quora.com/What-is-software-unit-testing-and-why-is-it-important)
         > You need to practice Unit Testing through implementing it in a project using any of the frameworks available for the language you code your project with. For example PHPUnit, Django unittest, Python Nose, Boost Test, etc.
+    - [Unit Testing for Django](https://docs.djangoproject.com/en/2.0/topics/testing/overview/)
+    - [Google Test C++ Test Framework](https://github.com/google/googletest)
 5. Agile
     - The Art of Agile Development (Book)
     - [Scrum Guide](http://scrumguides.org/scrum-guide.html)
@@ -71,7 +73,8 @@ The roadmap will contain detailed checkpoints for each field, including links fo
 	- Python
 	- Lua
 2. Node.js
-3. AngulasJS
+	- MERN Stack
+3. AngularJS
 
 # Credits
 - https://www.facebook.com/groups/892792400815703/permalink/1402230853205186/
